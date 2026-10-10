@@ -1,0 +1,10 @@
+flask>=3.0
+curl-cffi>=0.7
+faker>=24.0
+phonenumbers>=8.13
+requests>=2.31
+werkzeug>=3.0
+zxing-cpp>=2.2
+opencv-python-headless>=4.9,<4.12
+numpy>=1.26,<2
+rapidocr-onnxruntime>=1.3
